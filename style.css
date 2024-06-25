@@ -1,0 +1,28 @@
+body {
+  font-family: Tahoma;
+  color: #121212;
+  line-height: 1.5;
+  font-size: 15px;
+}
+.main-title {
+  color: #e62121;
+  font-size: 30px;
+  text-transform: 30px;
+}
+.joska {
+  color: #e62121;
+}
+.title {
+  color: #2154e6;
+}
+.small-title {
+  color: #71aa1f;
+  font-size: 21px;
+  text-decoration: underline;
+}
+.ast {
+  font-style: italic;
+}
+.list {
+  font-weight: bold;
+}
